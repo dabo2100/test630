@@ -75,7 +75,7 @@ header {
 
     #rectangular {
         position: absolute;
-        right: 0;
+        right: 20px;
         top: 0;
 
         @media screen and (max-width : 992px) {
